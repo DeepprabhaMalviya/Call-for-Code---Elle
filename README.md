@@ -41,6 +41,7 @@ The idea is to set up smart-community hubs across multiple physical locations wi
 2) Maintain water analysis reports and trigger a response if threshold is crossed
 3) Keep an average population count of the blocks of communities assigned per community hub
 4) Keep solo count of disease symptoms reported regularly at every block and raise alarm if threshold goes above a pre-determined level. 
+
 `Explanation --Say a person from Block A reported of Nausea, Vomiting and Severe Diarrhea on Jan 01. On the next couple of days, similar reports started to get logged in the system. The system will immediately validate the sensory data, water quality at sources, and trigger a response to the controller for immediate remedial action. `
 
 ## Demo video

@@ -101,11 +101,18 @@ Currently, the project is in development stage and noble ideas are always welcom
 
 ## Authors
 
-
   <img src="https://raw.githubusercontent.com/DeepprabhaMalviya/Call-for-Code---Elle/main/images/bannerimg.png" />
 
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+    # We are Team Elle. We started at Institute of Engineering & Management, Kolkata.
+	We are 5 friends with one target ->  #"Change the world for a greater good"
+	
+	Deepprabha Malviya -> [Leader]
+    Kajal Singha -> []
+    Ruchira Biswas
+    Aditya Kundu
+    Mananjay Roy
+	
+	# You can find us in the classroom of 3rd Year's Section B, Department : CSE
 
 ## License
 

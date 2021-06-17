@@ -108,9 +108,9 @@ Currently, the project is in development stage and noble ideas are always welcom
 	
 	Deepprabha Malviya -> [Leader]
     Kajal Singha -> []
-    Ruchira Biswas
-    Aditya Kundu
-    Mananjay Roy
+    Ruchira Biswas -> []
+    Aditya Kundu -> []
+    Mananjay Roy -> []
 	
 	# You can find us in the classroom of 3rd Year's Section B, Department : CSE
 

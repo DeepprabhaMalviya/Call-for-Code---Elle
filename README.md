@@ -102,7 +102,7 @@ Currently, the project is in development stage and noble ideas are always welcom
 ## Authors
 
 
-  <img src="https://raw.githubusercontent.com/DeepprabhaMalviya/Call-for-Code---Elle/main/images/Colorful%20Summer%20Fun%20Facebook%20Cover.png" />
+  <img src="https://raw.githubusercontent.com/DeepprabhaMalviya/Call-for-Code---Elle/main/images/bannerimg.png" />
 
 
 - **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)

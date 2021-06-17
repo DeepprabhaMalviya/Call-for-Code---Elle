@@ -101,9 +101,9 @@ Currently, the project is in development stage and noble ideas are always welcom
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
+
+  <img src="https://raw.githubusercontent.com/DeepprabhaMalviya/Call-for-Code---Elle/main/images/Colorful%20Summer%20Fun%20Facebook%20Cover.png" />
+
 
 - **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 

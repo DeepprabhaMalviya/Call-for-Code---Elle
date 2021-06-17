@@ -8,20 +8,18 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
 
 ## :fallen_leaf: Contents :
 
-- [Submission or project name](#submission-or-project-name)
+
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
@@ -53,9 +51,6 @@ It's imperative that learning and creating can continue when educational institu
 3. Watson Translation (optionally) can translate the text to the desired language.
 4. The app stores the translated text as a document within Object Storage.
 
-## Long description
-
-[More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
 
@@ -95,10 +90,6 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 

@@ -6,7 +6,7 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
 
 
 
-## Contents
+## :fallen_leaf: Contents :
 
 - [Submission or project name](#submission-or-project-name)
   - [Short description](#short-description)

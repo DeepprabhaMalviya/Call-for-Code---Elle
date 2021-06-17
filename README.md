@@ -113,6 +113,8 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 
+- Special Thanks to [IBM](https://www.ibm.com/in-en) for providing the Cloud Platform and valuable resources for this challenge.
+- [Women in Technology (WiT)](https://wit-ace.com/) , India for enabling us to participate for a noble cause.
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth).
 
 

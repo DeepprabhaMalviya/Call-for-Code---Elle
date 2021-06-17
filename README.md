@@ -104,13 +104,13 @@ Currently, the project is in development stage and noble ideas are always welcom
   <img src="https://raw.githubusercontent.com/DeepprabhaMalviya/Call-for-Code---Elle/main/images/bannerimg.png" />
 
     # We are Team Elle. We started at Institute of Engineering & Management, Kolkata.
-	We are 5 friends with one target ->  #"Change the world for a greater good"
+	We are 5 friends with one target ->  #"To change the world for a greater good"
 	
 	Deepprabha Malviya -> [Leader]
-    Kajal Singha -> []
-    Ruchira Biswas -> []
-    Aditya Kundu -> []
-    Mananjay Roy -> []
+    Kajal Singha -> [Research and Quality Control]
+    Ruchira Biswas -> [Technical Feasibility Analysis]
+    Aditya Kundu -> [Technical Developer]
+    Mananjay Roy -> [Technical Developer]
 	
 	# You can find us in the classroom of 3rd Year's Section B, Department : CSE
 

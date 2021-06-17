@@ -32,11 +32,16 @@ In rural and semi-rural communities, there is a lack of understanding of various
 
 ### How can technology help?
 
-With modern technology, combining IoT, Advanced Algorithms, Machine Learning and Smart-Interaction methods, the diseases can be prevented by imposing smart sanitation systems to improve hygiene and community-symptoms monitoring systems. Smart Sanitation can also have an added advantage, methods to save and control unnecessary water wastage, thus improving the ecological balance.
+With modern technology, combining IoT, Advanced Algorithms, Machine Learning and Smart-Interaction methods with Artificial Intelligence, the diseases can be prevented by imposing smart sanitation systems to improve hygiene and community-symptoms monitoring systems. Smart Sanitation can also have an added advantage, methods to save and control unnecessary water wastage, thus improving the ecological balance.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+The idea is to set up smart-community hubs across multiple physical locations with an interactive system to govern the area. It will do the following :
+1) Monitor the water sources with smart sensory data
+2) Maintain water analysis reports and trigger a response if threshold is crossed
+3) Keep an average population count of the blocks of communities assigned per community hub
+4) Keep solo count of disease symptoms reported regularly at every block and raise alarm if threshold goes above a pre-determined level. 
+`Explanation --Say a person from Block A reported of Nausea, Vomiting and Severe Diarrhea on Jan 01. On the next couple of days, similar reports started to get logged in the system. The system will immediately validate the sensory data, water quality at sources, and trigger a response to the controller for immediate remedial action. `
 
 ## Demo video
 

@@ -28,11 +28,11 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
 
 ### What's the problem?
 
-In rural and semi-rural communities, there is a lack of understanding of various diseases and health complications due to water contamination and improper sanitation. As a result, millions of children lose their lives each year across the planet, teenagers and adults get diseases that they carry for the rest of their lives, and environmental damage.
+In rural and semi-rural communities, there is a lack of understanding of various diseases and health complications due to water contamination and improper sanitation. As a result, millions of children lose their lives each year across the planet, teenagers and adults get diseases that they carry for the rest of their lives, and environmental damage. Due to improper exclusion and timely quarantines, from a few people, entire communities may be affected. It may be from air & plasma borne diseases like COVID19, Influenza, Tuberculosis, and water-borne diseases like Arsenic Pollution, Typhoid, Dysentry and Hepatitis.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+With modern technology, combining IoT, Advanced Algorithms, Machine Learning and Smart-Interaction methods, the diseases can be prevented by imposing smart sanitation systems to improve hygiene and community-symptoms monitoring systems. Smart Sanitation can also have an added advantage, methods to save and control unnecessary water wastage, thus improving the ecological balance.
 
 ### The idea
 

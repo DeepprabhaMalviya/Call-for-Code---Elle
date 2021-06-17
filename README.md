@@ -44,6 +44,8 @@ The idea is to set up smart-community hubs across multiple physical locations wi
 
 `Explanation --Say a person from Block A reported of Nausea, Vomiting and Severe Diarrhea on Jan 01. On the next couple of days, similar reports from that particular block/community started to get logged into the system. The system will immediately go into SOS mode, validate the sensory data, water quality at sources, and trigger a response to the controller for immediate remedial action. This will prevent pandemics even before things get really serious. This is a great way to ensure preventative measures to ensure and control sanitation quality across large communities. `
 
+This is a general explanation of the idea. Implementation will be using sensory data, population datasets, realtime water source monitoring, machine learning for predictions and Artificial Intelligence for approximating the disease or problem that might be occuring in the blocks/communities it is responsible for monitoring.
+
 ## Demo video
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)

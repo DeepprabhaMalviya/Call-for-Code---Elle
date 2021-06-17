@@ -20,7 +20,6 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
@@ -78,9 +77,7 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+- [Some Files Here](./sample-react-app/)
 
 ## Live demo
 

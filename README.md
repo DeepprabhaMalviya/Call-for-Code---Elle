@@ -1,15 +1,14 @@
 # Submission or project name
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
+`Team Elle` [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
 A brief overview of our idea for the [Call for Code](https://developer.ibm.com/callforcode/) initiative. 
 
-> If you're new to open source, please consider taking the
+
 
 ## Contents
 
 - [Submission or project name](#submission-or-project-name)
-  - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
@@ -31,7 +30,7 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+In rural and semi-rural communities, there is a lack of understanding of various diseases and health complications due to water contamination and improper sanitation. As a result, millions of children lose their lives each year across the planet, teenagers and adults get diseases that they carry for the rest of their lives, and environmental damage.
 
 ### How can technology help?
 

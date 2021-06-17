@@ -113,7 +113,8 @@ Currently, the project is in development stage and noble ideas are always welcom
     Mananjay Roy -> [Technical Developer]
 	
 	# You can find us in the classroom of 3rd Year's Section B, Department : CSE
-
+	
+`Team Mentor : Tuhinadri Banerjee [IEM CSE 3rd Year] # IBM Cloud Technology Guide`
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.

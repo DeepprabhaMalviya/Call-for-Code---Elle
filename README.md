@@ -93,7 +93,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Currently, the project is in development stage and noble ideas are always welcome. We can make a long lasting impression on our society by joining hands and pledging for a better future. 
+
+###### Read the official Call For Code FAQ [here](https://callforcode.org/faq/).
 
 ## Authors
 

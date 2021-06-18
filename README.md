@@ -1,3 +1,4 @@
+
 # `Community H2H`
 **A Smart Natural Resource, Health and Sanitation Monitoring System for Communities**
 
@@ -53,7 +54,7 @@ This is a general explanation of the idea. Implementation will be using sensory 
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/DeepprabhaMalviya/Call-for-Code---Elle/blob/main/images/vidprev.png)](https://youtu.be/vOgCOoy_Bx0)
 
 ## The architecture
 

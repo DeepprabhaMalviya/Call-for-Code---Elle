@@ -13,11 +13,12 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [Demo video](#demo-video)
+  - [Code Repository](#code-repository) 
+ - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Project roadmap](#project-roadmap)
+  - [Solution roadmap](#solution-roadmap)
   - [Getting started](#getting-started)
-  - [Code Repository](#code-repository)
+
   - [Built with](#built-with)
   - [Contributing](#contributing)
   - [Authors](#authors)
@@ -60,7 +61,7 @@ This is a general explanation of the idea. Implementation will be using sensory 
 4. The app stores the translated text as a document within Object Storage.
 
 
-## Project roadmap
+## Solution roadmap
 
 The project currently does the following things.
 

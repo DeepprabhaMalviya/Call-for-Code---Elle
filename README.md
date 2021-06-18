@@ -60,10 +60,10 @@ This is a general explanation of the idea. Implementation will be using sensory 
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The data sensors monitor the water quality in the area.
+2. The Watson Machine Learning system collects the latest updated data of resouce quality and human health to process a trigger of locally occuring outbreak
+3. IBM API Connect is implemented and the authorities are informed for instant remediation.
+4. The community is saved from an epidemic and this is vital for controlling deadly diseases.
 
 
 ## Solution Roadmap

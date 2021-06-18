@@ -64,14 +64,6 @@ This is a general explanation of the idea. Implementation will be using sensory 
 
 ## Solution Roadmap
 
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
 ![Roadmap](./images/roadmap.jpg)
@@ -84,16 +76,15 @@ We are readying the system for deployment. This section will be updated shortly.
 
 ## Code Repository
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+We will be using this operation dashboard system for the solution. [Official Repo Link](https://github.com/IBM/osipi-monitor-integration).
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Watson](https://cloud.ibm.com/catalog/services/machine-learning#about) - The Machine Learning Tool by IBM
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - For controlling the event driven logic, i.e. the triggers to be sent to authorities
+- [NodeRED](https://developer.ibm.com/components/node-red/) - For connecting the sensory data and validation
+
 
 ## Contributing
 
@@ -126,6 +117,10 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 - Special Thanks to [IBM](https://www.ibm.com/in-en) for providing the Cloud Platform and valuable resources for this challenge.
 - [Women in Technology (WiT)](https://wit-ace.com/) , India for enabling us to participate for a noble cause.
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth).
+- Video Source : [Pexels](https://https://videos.pexels.com/)
+- Background Audio :  [YouTube](https://www.youtube.com/watch?v=azNw-vQhAXQ&vl=en)
+
+Punch Deck - Brahe" is under a Creative Commons (cc-by) license Music promoted by BreakingCopyright
 
 
 

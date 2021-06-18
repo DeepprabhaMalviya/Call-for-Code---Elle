@@ -17,7 +17,7 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
   - [The architecture](#the-architecture)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
+  - [Code Repository](#code-repository)
   - [Built with](#built-with)
   - [Contributing](#contributing)
   - [Authors](#authors)
@@ -80,7 +80,7 @@ We are readying the system for deployment. This section will be updated shortly.
 
 - [Watch one of India's Smart Villages in the meantime](https://www.youtube.com/watch?v=TR2zWze-Te4&ab_channel=AmritVatsaAmritVatsa)
 
-## Live demo
+## Code Repository
 
 You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 

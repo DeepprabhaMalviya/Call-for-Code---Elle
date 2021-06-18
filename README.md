@@ -58,8 +58,6 @@ This is a general explanation of the idea. Implementation will be using sensory 
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
 1. The data sensors monitor the water quality in the area.
 2. The Watson Machine Learning system collects the latest updated data of resouce quality and human health to process a trigger of locally occuring outbreak
 3. IBM API Connect is implemented and the authorities are informed for instant remediation.

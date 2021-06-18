@@ -1,4 +1,6 @@
-# `Team Elle` Submission or project name 
+# `Community H2H`
+
+    A Smart Natural Resource, Health and Sanitation Monitoring System for Communities
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-yellow)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/IBM-CallForCode-teal)](https://developer.ibm.com/podcasts/call-for-code-podcast/) 
 

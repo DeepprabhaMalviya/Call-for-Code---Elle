@@ -119,7 +119,7 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 - Special Thanks to [IBM](https://www.ibm.com/in-en) for providing the Cloud Platform and valuable resources for this challenge.
 - [Women in Technology (WiT)](https://wit-ace.com/) , India for enabling us to participate for a noble cause.
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth).
-- Video Source : [Pexels](https://https://videos.pexels.com/)
+- Video Source : [Pexels](https://videos.pexels.com/)
 - Background Audio :  [YouTube](https://www.youtube.com/watch?v=azNw-vQhAXQ&vl=en)
 
 Punch Deck - Brahe" is under a Creative Commons (cc-by) license Music promoted by BreakingCopyright

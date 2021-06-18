@@ -1,6 +1,6 @@
 # `Team Elle` Submission or project name 
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-yellow)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/IBM-CallForCode-teal)](https://developer.ibm.com/podcasts/call-for-code-podcast/)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-yellow)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/IBM-CallForCode-teal)](https://developer.ibm.com/podcasts/call-for-code-podcast/) 
 
 A brief overview of our idea for the [Call for Code](https://developer.ibm.com/callforcode/) initiative. 
 
@@ -124,5 +124,6 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 - Special Thanks to [IBM](https://www.ibm.com/in-en) for providing the Cloud Platform and valuable resources for this challenge.
 - [Women in Technology (WiT)](https://wit-ace.com/) , India for enabling us to participate for a noble cause.
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth).
+
 
 

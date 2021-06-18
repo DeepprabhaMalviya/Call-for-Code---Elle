@@ -16,7 +16,7 @@ A brief overview of our idea for the [Call for Code](https://developer.ibm.com/c
   - [Code Repository](#code-repository) 
  - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Solution roadmap](#solution-roadmap)
+  - [Solution Roadmap](#solution-roadmap)
   - [Getting started](#getting-started)
 
   - [Built with](#built-with)
@@ -62,7 +62,7 @@ This is a general explanation of the idea. Implementation will be using sensory 
 4. The app stores the translated text as a document within Object Storage.
 
 
-## Solution roadmap
+## Solution Roadmap
 
 The project currently does the following things.
 

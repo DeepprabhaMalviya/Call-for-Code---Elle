@@ -68,7 +68,7 @@ This is a general explanation of the idea. Implementation will be using sensory 
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/newimages.jpg)
+![Roadmap](./images/CFC ELLE.jpg)
 
 ## Getting started
 
